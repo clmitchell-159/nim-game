@@ -1,0 +1,24 @@
+##################################################
+#     Welcome to The Unbeatable Game of Nim!     #
+##################################################
+
+***************** General Rules ******************
+
+Nim is a fairly simple game, and consists solely
+of a number of flags in a field.
+
+Players sequentially take turns. On each turn,
+a player can take 1, 2 or 3 flags. Each player
+must take at least one flag on each of their turns.
+
+The player who takes the last flag from the field 
+wins the game.
+
+************* Playing Vs The Computer *************
+
+When you play vs the computer, you can choose to 
+pick flags first or second. 
+If you choose to pick first, then the computer will
+choose how many flags are in the field.
+If you choose to pick second, then you will choose
+how many flags are in the field.
