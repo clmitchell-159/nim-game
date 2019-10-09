@@ -1,0 +1,28 @@
+**********************************
+*          RULES OF NIM          *
+**********************************
+
+##### Default Game #####
+	A Default Game of Nim consists of one
+play field. 
+	Players take turns removing flags from
+the play field. On each turn, a player
+can remove 1, 2, or 3 flags from the 
+play field. No More, No Less.
+	The Player to remove the last flag from
+the field loses the round, and is eliminated
+from subsequent rounds.
+	The last player standing wins the game.
+	
+	
+##### Challange Mode #####
+	In Challange Mode, there are between two
+and seven fields.
+	Players take turns removing flags from
+the play field. On each turn, a player can
+remove any number of flags from any single
+field.
+	The Player to remove the last flag from
+the field loses the round, and is eliminated
+from subsequent rounds.
+	The last player standing wins the game.
